@@ -1,5 +1,8 @@
 # React + Vite
 
+<span>Currency Converter appp</span><a href="https://currency-converter-green-fi">App Link</a>
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
