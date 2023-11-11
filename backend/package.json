@@ -1,0 +1,11 @@
+{
+  "name": "tea-backend",
+  "version": "1.0.0",
+  "description": "a backend at tea aur backend with- ab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Bombatkar",
+  "license": "ISC"
+}
