@@ -1,5 +1,5 @@
 <h1>Theme Toggler App </h1>
-<a src="https://theme-toggler-lime.vercel.app" >App Link </a>
+<a href="https://theme-toggler-lime.vercel.app" >App Link </a>
 
 
 # React + Vite
